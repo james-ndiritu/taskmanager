@@ -96,10 +96,7 @@ git --version
 ### Installation
 
 1. **Clone the repository**
-```bash
-git clone https://github.com/Ayokanmi-Adejola/Task-Management.git
-cd Task-Management
-```
+
 
 2. **Install dependencies**
 ```bash
@@ -328,9 +325,3 @@ When reporting bugs, please include:
 - [Lucide](https://lucide.dev/) for the comprehensive icon library
 - The React and TypeScript communities for continuous innovation
 
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/Ayokanmi-Adejola/Task-Management?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Ayokanmi-Adejola/Task-Management?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Ayokanmi-Adejola/Task-Management)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Ayokanmi-Adejola/Task-Management)
